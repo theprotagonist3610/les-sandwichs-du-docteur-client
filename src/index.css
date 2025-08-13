@@ -63,6 +63,16 @@
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
+  --font-Quartzo: Quartzo, "sans-serif";
+  --font-Alkia: Alkia, "sans-serif";
+  --font-Audrey_bold: Audrey_bold, "sans-serif";
+  --font-Audrey_normal: Audrey_normal, "sans-serif";
+  --font-Break: Break, "sans-serif";
+  --font-Coco: Coco, "sans-serif";
+  --font-Morena: Morena, "sans-serif";
+  --font-Nunito_bold: Nunito_bold, "sans-serif";
+  --font-Nunito_regular: Nunito_regular, "sans-serif";
+  --font-Rattudiy: Rattudiy, "sans-serif";
   --radius-sm: calc(var(--radius) - 4px);
   --radius-md: calc(var(--radius) - 2px);
   --radius-lg: var(--radius);

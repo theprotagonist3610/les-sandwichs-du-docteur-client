@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "les-sandwichs-du-docteur-back"
+  },
+  "targets": {
+    "les-sandwichs-du-docteur-back": {
+      "hosting": {
+        "client": [
+          "les-sandwichs-client"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
